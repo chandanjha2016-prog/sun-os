@@ -1,7 +1,6 @@
-
 export default function Dashboard() {
   return (
-    <div style={{background: '#000', color: '#FFD700', minHeight: '100vh', padding: '30px', fontFamily: 'Arial'}}>
+    <div style={{background: '#000', color: '#FFD700', minHeight: '100vh', padding: '30px', fontFamily: 'Arial', textAlign: 'center'}}>
       <h1>SUN OS Dashboard ☀️</h1>
       
       <div style={{border: '2px solid #FFD700', padding: '20px', margin: '20px 0', borderRadius: '10px'}}>
